@@ -702,6 +702,16 @@ height: auto;
 {
   border-radius: none;
 }
+.box h4 
+{
+  font-size: 1rem;
+ 
+}
 
+.box h6 
+{
+  font-size: 0.8rem;
+ 
+}
 }
     /* media queries ends */
